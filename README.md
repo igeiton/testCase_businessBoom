@@ -1,4 +1,4 @@
-Тестовое задание в компанию "Business Boom".
+Тестовое задание в компанию "Business Boom". [Ссылка на ТЗ](https://disk.yandex.ru/edit/disk/disk%2FТЗ%20Фронт.docx?sk=y4ba2a6979baf115ae2956cfa3e1cfcc9)
 
 Начальные данные по пользователям хранятся в `public/data.ts`
 Можно зайти под логином "kevin" и паролем "zxc"
